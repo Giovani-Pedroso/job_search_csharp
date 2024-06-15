@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iCRxjeeX+lJcmEo3ToxEpsGvbrBcAlC/khixiOfoh1xK3TM31vDj9Lqa/vLmb/aoVGXnfEbwJlYbDGzSfo6dSg==",
+  "success": true,
+  "projectFilePath": "/home/giovani/codes/utils/job_searcher_csharp/job_searcher_csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/giovani/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

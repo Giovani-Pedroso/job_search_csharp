@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "job_searcher_csharp/1.0.0": {
+        "runtime": {
+          "job_searcher_csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "job_searcher_csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

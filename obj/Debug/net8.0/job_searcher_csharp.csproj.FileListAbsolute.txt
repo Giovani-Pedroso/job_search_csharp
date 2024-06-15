@@ -1,0 +1,14 @@
+/home/giovani/codes/utils/job_searcher_csharp/bin/Debug/net8.0/job_searcher_csharp
+/home/giovani/codes/utils/job_searcher_csharp/bin/Debug/net8.0/job_searcher_csharp.deps.json
+/home/giovani/codes/utils/job_searcher_csharp/bin/Debug/net8.0/job_searcher_csharp.runtimeconfig.json
+/home/giovani/codes/utils/job_searcher_csharp/bin/Debug/net8.0/job_searcher_csharp.dll
+/home/giovani/codes/utils/job_searcher_csharp/bin/Debug/net8.0/job_searcher_csharp.pdb
+/home/giovani/codes/utils/job_searcher_csharp/obj/Debug/net8.0/job_searcher_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/giovani/codes/utils/job_searcher_csharp/obj/Debug/net8.0/job_searcher_csharp.AssemblyInfoInputs.cache
+/home/giovani/codes/utils/job_searcher_csharp/obj/Debug/net8.0/job_searcher_csharp.AssemblyInfo.cs
+/home/giovani/codes/utils/job_searcher_csharp/obj/Debug/net8.0/job_searcher_csharp.csproj.CoreCompileInputs.cache
+/home/giovani/codes/utils/job_searcher_csharp/obj/Debug/net8.0/job_searcher_csharp.dll
+/home/giovani/codes/utils/job_searcher_csharp/obj/Debug/net8.0/refint/job_searcher_csharp.dll
+/home/giovani/codes/utils/job_searcher_csharp/obj/Debug/net8.0/job_searcher_csharp.pdb
+/home/giovani/codes/utils/job_searcher_csharp/obj/Debug/net8.0/job_searcher_csharp.genruntimeconfig.cache
+/home/giovani/codes/utils/job_searcher_csharp/obj/Debug/net8.0/ref/job_searcher_csharp.dll
